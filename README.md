@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbHiNaVaBh
+- 👋 Hi, I’m Abhinav pp
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer hardware engineering
 - 💞️ I’m looking to collaborate on ...
