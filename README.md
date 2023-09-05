@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhinav pp
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computer hardware engineering
+- 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
