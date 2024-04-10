@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Abhinav pp
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...abhinavapp1441@gmail.com
+👋 Hi, I’m Abhinav pp ,from Calicut.a final year student 👀 pursuing a diploma in computer engineering At MPTC. 💞️ Coding is my passion, and I love diving into programming challenges. When I'm not coding, definitely learning new skills 🌱  to stay active and healthy. Looking forward to connecting with you guys!!😇
 
-<!---
-AbHiNaVaBh/AbHiNaVaBh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ...abhinavabhi1441@gmail.com
